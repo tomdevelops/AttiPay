@@ -1,4 +1,4 @@
-# pay
+# AttiPay
 
 ## Project setup
 ```
